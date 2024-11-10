@@ -23,7 +23,7 @@ Para ejecutar este proyecto localmente, sigue estos pasos:
     ```
 2. Navega al directorio del proyecto:
     ```bash
-    cd conversor-peso-dolar
+    cd conversor-react-ARS-USD
     ```
 3. Instala todas las dependencias del proyecto:
     ```bash
